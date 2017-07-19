@@ -22,7 +22,7 @@ public class main;
                 System.out.printIn("Aluno Aprovado em exame", NOVA_MD);
 		    } else{
 		        System.out.printIn("Aluno Reprovado", NOVA_MD);
-            }
+		    }
 		}
     
     
